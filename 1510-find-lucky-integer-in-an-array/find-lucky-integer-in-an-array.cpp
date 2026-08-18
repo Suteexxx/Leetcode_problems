@@ -13,7 +13,7 @@ public:
                 }
             }
 
-            // Check after counting
+            
             if (count == arr[i]) {
                 largest = max(largest, arr[i]);
             }
